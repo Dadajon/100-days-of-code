@@ -1,5 +1,6 @@
 # Complete Python Bootcamp: Go from zero to hero in Python 3
 
+![Udemy](https://i.ytimg.com/vi/Bkf-8WLNRIo/maxresdefault.jpg)
 
 ## Description
 
