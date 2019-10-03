@@ -18,13 +18,13 @@ We cover a wide variety of topics, including :
 * Command Line Basics
 * Installing Python
 * Running Python Code
-* Strings
-* Lists 
+* [Strings](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/03-strings.ipynb)
+* [Lists](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/05-lists.ipynb)
 * Dictionaries
 * Tuples
 * Sets
-* Number Data Types
-* Print Formatting
+* [Numbers & Data Types](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/01-numbers.ipynb)
+* [Print Formatting](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/04-print-formatting-with-strings.ipynb)
 * Functions
 * Scope
 * args/kwargs
