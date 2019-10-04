@@ -378,3 +378,7 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/c,c++,clion,macos,python,pycharm,jupyternotebooks,visualstudiocode
 n
+
+/complete-python-bootcamp/00-python-object-and-data-structure-basics/myfile.txt
+/complete-python-bootcamp/00-python-object-and-data-structure-basics/my_new_file.txt
+/complete-python-bootcamp/00-python-object-and-data-structure-basics/test.txt
