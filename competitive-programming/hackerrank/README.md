@@ -6,9 +6,9 @@
 
 **Explore HackerRank Skills :**
    * Interview Preparation
-   * Algorithms  
-   * Data Sctuctures
-   * Mathematics
+   * [Algorithms](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/algorithms)
+   * [Data-Sctuctures](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/data-structures)
+   * [Mathematics](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/mathematics)
 
 **Why should I solve challenges?**
 
