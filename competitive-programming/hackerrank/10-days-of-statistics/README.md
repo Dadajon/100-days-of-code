@@ -1,4 +1,5 @@
-<img src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg" align="right" width="100px"/>
+<br>
+<img src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg" align="right" width="25%"/>
 
 # 10 Days of Statistics
 
