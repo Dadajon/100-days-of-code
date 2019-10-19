@@ -1,7 +1,7 @@
 # Day 2: Basic Probability
 ### Objective
 
-In this challenge, we practice calculating probability. Check out the Tutorial tab for a breakdown of probability fundamentals!
+Check out the [Tutorial](https://www.hackerrank.com/challenges/s10-mcq-1/tutorial) for a breakdown of probability fundamentals!
 
 ### Task
 
@@ -23,9 +23,6 @@ This gives us probability (sum >= 10) = 6/36 = 1/6
 That means probability (sum <= 9) = 1 - 1/6 = 5/6
 
 # Day 2: More dice
-### Objective
-
-In this challenge, we practice calculating probability. We recommend you review the previous challenge's Tutorial before attempting this problem.
 
 ### Task
 In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will be different and the two dice have a sum of 6.
@@ -43,9 +40,6 @@ There are 4 cases that match the desired criteria: (1,5) (5,1) (2,4) (4,2)
 This gives us a probability of 4/36 = 1/9
 
 # Day 2: Compound Event Probability
-
-### Objective
-In this challenge, we practice calculating the probability of a compound event. We recommend you review today's Probability Tutorial before attempting this challenge.
 
 ### Task
 There are 3 urns labeled X, Y, and Z.
