@@ -21,15 +21,15 @@ We cover a wide variety of topics, including :
 * Running Python Code
 * [Strings](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/03-strings.ipynb)
 * [Lists](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/05-lists.ipynb)
-* Dictionaries
-* Tuples
-* Sets
+* [Dictionaries](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/06-dictionaries.ipynb)
+* [Tuples](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/07-tuples.ipynb)
+* [Sets](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/08-sets-and-booleans.ipynb)
 * [Numbers & Data Types](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/01-numbers.ipynb)
 * [Print Formatting](https://github.com/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/00-python-object-and-data-structure-basics/04-print-formatting-with-strings.ipynb)
-* Functions
-* Scope
-* args/kwargs
-* Built-in Functions
+* [Functions](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/03-methods-and-functions/02-functions.ipynb)
+* [Scope](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/03-methods-and-functions/05-nested-statements-and-scope.ipynb)
+* [args/kwargs](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/03-methods-and-functions/06-args-and-kwargs.ipynb)
+* [Built-in Functions](https://nbviewer.jupyter.org/github/Dadajon/100-days-of-code/blob/master/complete-python-bootcamp/03-methods-and-functions/02-functions.ipynb)
 * Debugging and Error Handling
 * Modules
 * External Modules
