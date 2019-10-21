@@ -3,9 +3,9 @@ def geometric_distribution(n, p):
 
 
 if __name__ == "__main__":
-    values = list(map(int, input().split()))
+    probability = list(map(int, input().split()))
     number_of_inspections = int(input())
-    p = values[0] / values[1]
+    p = probability[0] / probability[1]
 
     # Get binomial result
     result = geometric_distribution(number_of_inspections, p)
