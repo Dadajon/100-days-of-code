@@ -9,6 +9,8 @@
    * [Algorithms](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/algorithms)
    * [Data-Sctuctures](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/data-structures)
    * [Mathematics](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/mathematics)
+   * [10 Days of Statistics](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/10-days-of-statistics)
+   * [30 Days of Code](https://github.com/Dadajon/100-days-of-code/tree/master/competitive-programming/hackerrank/30-days-of-code)
 
 **Why should I solve challenges?**
 
