@@ -5,4 +5,4 @@
 > IDE
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-2019.2.3%20(Professional%20Edition)-brightgreen)
-![Python](https://img.shields.io/badge/python-3.7.4-blue)
+![Python](https://img.shields.io/badge/python-3.7.5-blue)
