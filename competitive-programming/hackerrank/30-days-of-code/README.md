@@ -1,5 +1,7 @@
-<img src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg" align="right" width="15%"/>
-<img src="https://drive.google.com/uc?export=view&id=1WGrUEtEF4T_lHixWIbYIi6e763BmjDSa" align="right" width="17%">
+<p>
+    <img src="https://hrcdn.net/fcore/assets/brand/h_mark_sm-966d2b45e3.svg" align="right" width="15%"/>
+    <img src="https://drive.google.com/uc?export=view&id=1WGrUEtEF4T_lHixWIbYIi6e763BmjDSa" align="right" width="17%">
+</p>
 
 # 30 Days of Code
 
