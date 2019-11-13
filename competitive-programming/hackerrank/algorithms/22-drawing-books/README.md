@@ -4,17 +4,17 @@ Brie’s Drawing teacher asks her class to open their books to a page number. Br
 
 ![](https://s3.amazonaws.com/hr-challenge-images/0/1481920803-d2b54f38f0-book.png)
 
-When she flips page 1, she sees pages 2 and 3 Each page except the last page will always be printed on both sides. The last page may only be printed on the front, given the length of the book. If the book is n pages long, and she wants to turn to page p, what is the minimum number of pages she will turn? She can start at the beginning or the end of the book.
+When she flips page ***1***, she sees pages ***2*** and ***3*** Each page except the last page will always be printed on both sides. The last page may only be printed on the front, given the length of the book. If the book is ***n*** pages long, and she wants to turn to page ***p***, what is the minimum number of pages she will turn? She can start at the beginning or the end of the book.
 
-Given n and p, find and print the minimum number of pages Brie must turn in order to arrive at page p.
+Given ***n*** and ***p***, find and print the minimum number of pages Brie must turn in order to arrive at page ***p***.
 
 ### Function Description
-Complete the page_count function in the editor below. It should return the minimum number of pages Brie must turn.
+Complete the ***page_count*** function in the editor below. It should return the minimum number of pages Brie must turn.
 
-page_count has the following parameter(s):
+***page_count*** has the following parameter(s):
 
-num_p: the number of pages in the book
-goal_p: the page number to turn to
+***num_p***: the number of pages in the book
+***goal_p***: the page number to turn to
 Input Format
 
 The first line contains an integer ***num_p***, the number of pages in the book.
