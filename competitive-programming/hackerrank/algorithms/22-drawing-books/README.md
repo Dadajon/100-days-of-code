@@ -21,8 +21,8 @@ The first line contains an integer ***num_p***, the number of pages in the book.
 The second line contains an integer, ***goal_p***, the page that Brie's teacher wants her to turn to.
 
 ### Constraints
-* $1 \leqslant n  \leqslant 10^5$
-* $1 \leqslant p \leqslant n$
+* ![](https://latex.codecogs.com/gif.latex?1%20%5Cleqslant%20n%20%5Cleqslant%2010%5E5)
+* ![](https://latex.codecogs.com/gif.latex?1%20%5Cleqslant%20p%20%5Cleqslant%20n)
 
 ### Output Format
 
