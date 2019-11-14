@@ -13,8 +13,8 @@ For example, if Gary's path is $s=[DDUUUUDD]$, he first enters a valley ***2*** 
 Complete the ***counting_valleys*** function in the editor below. It must return an integer that denotes the number of valleys Gary traversed.
 
 ***counting_valleys*** has the following parameter(s):
-* ***n***: the number of steps Gary takes
-* ***s***: a string describing his path
+* ***n_steps***: the number of steps Gary takes
+* ***path***: a string describing his path
 
 ### Input Format
 
@@ -22,7 +22,7 @@ The first line contains an integer ***n***, the number of steps in Gary's hike.
 The second line contains a single string ***s***, of ***n*** characters that describe his path.
 
 ### Constraints
-* $2\leqslant n \leqslant 10^6$
+* ${2\leqslant n \leqslant 10^6}$
 * $s[i]\epsilon\{UD\}$
 
 ### Output Format
