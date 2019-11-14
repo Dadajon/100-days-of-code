@@ -22,7 +22,7 @@ The first line contains an integer ***n***, the number of steps in Gary's hike.
 The second line contains a single string ***s***, of ***n*** characters that describe his path.
 
 ### Constraints
-* ![equation](http://www.sciweavers.org/upload/Tex2Img_1573712438/render.png)
+* ![equation](https://latex.codecogs.com/gif.latex?2%5Cleqslant%20n%20%5Cleqslant%2010%5E6)
 * ![equation](https://latex.codecogs.com/gif.latex?s%5Bi%5D%5Cepsilon%5C%7BUD%5C%7D)
 
 ### Output Format
