@@ -30,7 +30,7 @@ s: a ![](https://latex.codecogs.com/gif.latex?3%5Ctimes%203) array of integers
 
 ### Input Format
 
-Each of the lines contains three space-separated integers of row **_s[i]_**.
+Each of the lines contains three space-separated integers of row **s[i]**.
 
 ### Constraints
 
@@ -52,7 +52,7 @@ Print an integer denoting the minimum cost of turning matrix **_s_** into a magi
 
 ### Explanation 0
 
-If we change the bottom right value, **_s[2][2]_**, from **_5_** to **_6_** at a cost of ![](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%206-5%20%5Cright%20%7C%20%3D%201), **_s_** becomes a magic square at the minimum possible cost.
+If we change the bottom right value, **s[2][2]**, from **_5_** to **_6_** at a cost of ![](https://latex.codecogs.com/gif.latex?%5Cleft%20%7C%206-5%20%5Cright%20%7C%20%3D%201), **_s_** becomes a magic square at the minimum possible cost.
 
 ### Sample Input 1
 
@@ -68,8 +68,8 @@ If we change the bottom right value, **_s[2][2]_**, from **_5_** to **_6_** at a
 
 Using 0-based indexing, if we make
 
--   **_s[0][1] -> 9_** at a cost of **_|9 - 8| = 1_**
--   **_s[1][0] -> 3_** at a cost of **_|3 - 4| = 1_**
--   **_s[2][0] -> 8_** at a cost of **_|8 - 6| = 2_**,
+-   **s[0][1] -> 9** at a cost of **|9 - 8| = 1**
+-   **s[1][0] -> 3** at a cost of **|3 - 4| = 1**
+-   **s[2][0] -> 8** at a cost of **|8 - 6| = 2**,
 
 then the total cost will be **_1 + 1 + 2 = 4_**.
