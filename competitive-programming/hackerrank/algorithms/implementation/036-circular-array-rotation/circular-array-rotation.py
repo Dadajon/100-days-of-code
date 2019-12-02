@@ -1,21 +1,23 @@
+from collections import deque
+
+
 def circular_array_rotation(arr, rotations, queries):
     """
     One rotation operation moves the last array element to the first position and shifts all remaining elements right one.
-    
+
     :param arr: an array of integers to rotate
     :param rotations: an integer, the rotation count
     :param queries: an array of integers, the indices to report
     :return: an array of integers representing the values at the specified indices
     """
     res = []
+    # optimized way for fast arr.pop(-1) and arr.insert(0, tmp)
+    items = deque(arr)
+    # rotate the deque n steps to the right. If n is negative, rotate to the left.
+    items.rotate(rotations)
 
-    for _ in range(rotations):
-        tmp = arr[-1]
-        arr.pop(-1)
-        arr.insert(0, tmp)
-
-    for i in queries:
-        res.append(arr[i])
+    for q in queries:
+        res.append(items[q])
 
     return res
 
