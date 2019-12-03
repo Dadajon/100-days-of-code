@@ -474,5 +474,7 @@ fabric.properties
 .idea/**/markdown-navigator.xml
 .idea/**/markdown-navigator/
 
+deep-learning/mnist/data/
+
 # End of https://www.gitignore.io/api/pycharm
 n
