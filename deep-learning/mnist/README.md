@@ -15,4 +15,4 @@ mnist_testset = datasets.MNIST(root='./data', train=False, download=True, transf
 
 ```
 
-![result](data/img/data_download.png)
+![result](img/data_download.png)
