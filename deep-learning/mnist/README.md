@@ -8,3 +8,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.3.1-red)
 ![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
+```python
+
+mnist_trainset = datasets.MNIST(root='./data', train=True, download=True, transform=transforms.Compose([transforms.ToTensor()]))
+mnist_testset = datasets.MNIST(root='./data', train=False, download=True, transform=transforms.Compose([transforms.ToTensor()]))
+
+```
+
+![result](data/img/data_download.png)
