@@ -1,4 +1,4 @@
-<img src="http://sashagusev.github.io/images/plot_gp.svg" align="right" width="20%"/>
+<img src="http://sashagusev.github.io/images/plot_gp.svg" align="right" width="15%"/>
 
 # Gaussian Process Regression
 
