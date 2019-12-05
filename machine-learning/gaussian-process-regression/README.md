@@ -9,8 +9,8 @@
 ![gpytorch](https://img.shields.io/badge/gpytorch-0.3.6-green)
 ![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
-
-<br/>**_Gaussian process regression_** (**_GPR_**) is a nonparametric, Bayesian approach to regression that is making waves in the area of machine learning. **_GPR_** has several benefits, working well on small datasets and having the ability to provide uncertainty measurements on the predictions.
+<br/><br/>
+**_Gaussian process regression_** (**_GPR_**) is a nonparametric, Bayesian approach to regression that is making waves in the area of machine learning. **_GPR_** has several benefits, working well on small datasets and having the ability to provide uncertainty measurements on the predictions.
 
 ### Background
 
