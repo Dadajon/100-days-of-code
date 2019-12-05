@@ -1,4 +1,4 @@
-<img src="http://sashagusev.github.io/images/plot_gp.svg" align="right" width="15%"/>
+<img src="http://sashagusev.github.io/images/plot_gp.svg" align="right" width="25%"/>
 
 # Gaussian Process Regression
 
@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
 
-**_Gaussian process regression_** (**_GPR_**) is a nonparametric, Bayesian approach to regression that is making waves in the area of machine learning. **_GPR_** has several benefits, working well on small datasets and having the ability to provide uncertainty measurements on the predictions.
+<br/>**_Gaussian process regression_** (**_GPR_**) is a nonparametric, Bayesian approach to regression that is making waves in the area of machine learning. **_GPR_** has several benefits, working well on small datasets and having the ability to provide uncertainty measurements on the predictions.
 
 ### Background
 
