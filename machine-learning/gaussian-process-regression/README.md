@@ -9,6 +9,7 @@
 ![gpytorch](https://img.shields.io/badge/gpytorch-0.3.6-green)
 ![Python](https://img.shields.io/badge/Python-3.7.5-blue)
 
+
 **_Gaussian process regression_** (**_GPR_**) is a nonparametric, Bayesian approach to regression that is making waves in the area of machine learning. **_GPR_** has several benefits, working well on small datasets and having the ability to provide uncertainty measurements on the predictions.
 
 ### Background
@@ -27,3 +28,5 @@ The prior and likelihood is usually assumed to be Gaussian for the integration t
 
 ### Gaussian process regression
 **_GPR_** is nonparametric (i.e. not limited by a functional form), so rather than calculating the probability distribution of parameters of a specific function, **_GPR_** calculates the probability distribution over all admissible functions that fit the data. However, similar to the above, we specify a prior (on the function space), calculate the posterior using the training data, and compute the predictive posterior distribution on our points of interest.
+
+There are several libraries for efficient implementation of Gaussian process regression (e.g. scikit-learn, Gpytorch, GPy), but in order to understand 100% I'd implement every process using NumPy. At the end I'd use Gpytorch (0.3.6) Gaussian process package to compare my code.
