@@ -1,20 +1,18 @@
 #!/bin/python3
 
-import math
 import os
-import random
-import re
-import sys
+
 
 # Complete the angryProfessor function below.
 def angryProfessor(k, a):
-    count=0
+    count = 0
     for i in range(len(a)):
-        if(a[i]<=0):
-            count+=1
-    if(count>=k):
+        if (a[i] <= 0):
+            count += 1
+    if (count >= k):
         return "NO"
     return "YES"
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
