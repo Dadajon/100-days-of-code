@@ -4,5 +4,5 @@
 
 > IDE
 
-![PyCharm](https://img.shields.io/badge/PyCharm-2019.3%20(Professional%20Edition)-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.7.5-blue)
+![VSCode](https://img.shields.io/badge/VSCode-1.60.2%20-brightgreen?logo=visualstudiocode)
+![Python](https://img.shields.io/badge/Python-3.7.10-blue?logo=python)
