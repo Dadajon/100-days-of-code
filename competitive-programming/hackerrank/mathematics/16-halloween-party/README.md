@@ -35,7 +35,7 @@ Each line contains an integer *K*.
 ```
 
 
-### Sample Output #00
+### Sample Output
 
 ```
 6
