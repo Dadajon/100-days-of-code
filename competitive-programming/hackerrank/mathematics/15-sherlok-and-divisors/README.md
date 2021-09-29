@@ -36,6 +36,7 @@ For each testcase, print the required answer in one line.
 8 has four divisors 1,2,4 and 8, out of which three are divisible by 2. 
 
 <br>
+
 | Test case | Expected output |
 |:---:|:---:|
 | 1458 | 7 |
