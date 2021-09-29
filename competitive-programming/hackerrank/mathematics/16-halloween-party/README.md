@@ -18,7 +18,7 @@ Each line contains an integer *K*.
 
 ![equation](https://latex.codecogs.com/svg.latex?1%20%5Cleq%20T%20%5Cleq%2010)
 
-![equation](https://latex.codecogs.com/svg.latex?1%20%5Cleq%20K%20%5Cleq%2010E2)
+![equation](https://latex.codecogs.com/svg.latex?1%20%5Cleq%20K%20%5Cleq%2010%5E2)
 
 
 **Note**: Chocolate must be served in 1x1 sized pieces. Alex can't relocate any of the pieces, nor can he place any piece on top of another.
