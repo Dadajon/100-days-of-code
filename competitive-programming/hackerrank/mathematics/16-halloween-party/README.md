@@ -7,6 +7,7 @@ If the chocolate can be served only as 1x1 sized pieces and Alex can cut the cho
 ### Input Format
 
 The first line contains an integer *T*, the number of test cases. *T* lines follow.
+
 Each line contains an integer *K*.
 
 ### Output Format
@@ -16,6 +17,7 @@ Each line contains an integer *K*.
 ### Constraints
 
 ![equation](https://latex.codecogs.com/svg.latex?1%20%5Cleq%20T%20%5Cleq%2010)
+
 ![equation](https://latex.codecogs.com/svg.latex?1%20%5Cleq%20K%20%5Cleq%2010E2)
 
 
